@@ -1,0 +1,18 @@
+- define folder structure
+- define apps needed
+    - reverse proxy
+        - nginx
+    - ui app
+    - admin server (a/b testing)
+    - backend
+    - db
+    - telemetry service (errors, logs, monitoring, time series data)
+    - CI/CD
+    - security checking service
+    - e2e testing reports service
+    - internal doc service
+    - external doc service
+    - design service
+    - project service
+    - Deployment and scaling
+    - locally runnable vs hosted(saas)
